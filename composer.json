@@ -2,6 +2,5 @@
     "name": "herliansyah/provinsi",
     "description": "Data Provinsi di indonesia",
     "require": {
-        "psr/log": "1.*"
     }
 }
